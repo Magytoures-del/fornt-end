@@ -1,0 +1,234 @@
+/* Optimized animations for better performance */
+
+.heroContainer {
+  will-change: transform;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.imageContainer {
+  will-change: opacity, transform;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.fadeInUp {
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+
+.fadeInUpDelayed {
+  animation: fadeInUp 0.8s ease-out 0.3s forwards;
+  opacity: 0;
+}
+
+.scaleHover {
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.scaleHover:hover {
+  transform: scale(1.02);
+}
+
+.shimmerEffect {
+  position: relative;
+  overflow: hidden;
+}
+
+.shimmerEffect::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.1),
+    transparent
+  );
+  transform: skewX(-12deg);
+  transition: left 0.7s ease;
+}
+
+.shimmerEffect:hover::before {
+  left: 100%;
+}
+
+/* Custom pulse animation for better performance */
+.pulseCustom {
+  animation: pulseCustom 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulseCustom {
+  0%, 100% {
+    opacity: 0.6;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+/* Optimized backdrop blur for better performance */
+.backdropBlur {
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  will-change: backdrop-filter;
+}
+
+.backdropBlurLight {
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  will-change: backdrop-filter;
+}
+
+/* Enhanced loading skeleton */
+.loadingSkeleton {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.1) 0%,
+    rgba(255, 255, 255, 0.2) 50%,
+    rgba(255, 255, 255, 0.1) 100%
+  );
+  background-size: 200% 100%;
+  animation: shimmerSkeleton 1.5s ease-in-out infinite;
+}
+
+@keyframes shimmerSkeleton {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+/* Smooth image transitions */
+.imageTransition {
+  transition: opacity 0.8s cubic-bezier(0.4, 0, 0.2, 1),
+              transform 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Better button interactions */
+.buttonPrimary {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  will-change: transform, box-shadow;
+}
+
+.buttonPrimary:hover {
+  transform: translateY(-2px) scale(1.05);
+}
+
+.buttonPrimary:active {
+  transform: translateY(0) scale(0.98);
+}
+
+/* Particle animations */
+.particle {
+  animation: particleFloat 3s ease-in-out infinite;
+}
+
+.particle:nth-child(2) {
+  animation-delay: 1s;
+}
+
+.particle:nth-child(3) {
+  animation-delay: 2s;
+}
+
+@keyframes particleFloat {
+  0%, 100% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 0.2;
+  }
+  50% {
+    transform: translateY(-10px) rotate(180deg);
+    opacity: 0.6;
+  }
+}
+
+/* Responsive optimizations */
+@media (max-width: 640px) {
+  .heroContainer {
+    min-height: 80vh;
+  }
+  
+  .fadeInUp,
+  .fadeInUpDelayed {
+    animation-duration: 0.6s;
+  }
+}
+
+@media (min-width: 1024px) {
+  .heroContainer {
+    min-height: 100vh;
+  }
+}
+
+/* Large screen optimizations - more compact layout */
+@media (min-width: 1280px) {
+  .heroContainer {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .compactLayout {
+    transform: scale(0.9);
+    transform-origin: center;
+  }
+}
+
+@media (min-width: 1536px) {
+  .heroContainer {
+    max-width: 1400px;
+  }
+  
+  .compactLayout {
+    transform: scale(0.85);
+  }
+  
+  /* Ensure text remains readable on very large screens */
+  .heroText {
+    max-width: 70%;
+    margin: 0 auto;
+  }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .backdropBlur {
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+  
+  .backdropBlurLight {
+    background-color: rgba(0, 0, 0, 0.15);
+  }
+}
+
+/* Reduce motion for accessibility */
+@media (prefers-reduced-motion: reduce) {
+  .fadeInUp,
+  .fadeInUpDelayed,
+  .scaleHover,
+  .buttonPrimary,
+  .particle,
+  .pulseCustom {
+    animation: none;
+    transition: none;
+  }
+  
+  .shimmerEffect::before {
+    display: none;
+  }
+}

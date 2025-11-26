@@ -1,0 +1,1380 @@
+{
+  "RUH": {
+    "city": { "en": "Riyadh", "ar": "الرياض" },
+    "airport": {
+      "en": "King Khalid International Airport",
+      "ar": "مطار الملك خالد الدولي"
+    }
+  },
+  "JED": {
+    "city": { "en": "Jeddah", "ar": "جدة" },
+    "airport": {
+      "en": "King Abdulaziz International Airport",
+      "ar": "مطار الملك عبدالعزيز الدولي"
+    }
+  },
+  "DMM": {
+    "city": { "en": "Dammam", "ar": "الدمام" },
+    "airport": {
+      "en": "King Fahd International Airport",
+      "ar": "مطار الملك فهد الدولي"
+    }
+  },
+  "MED": {
+    "city": { "en": "Madinah", "ar": "المدينة المنورة" },
+    "airport": {
+      "en": "Prince Mohammad Bin Abdulaziz Airport",
+      "ar": "مطار الأمير محمد بن عبدالعزيز"
+    }
+  },
+  "TIF": {
+    "city": { "en": "Taif", "ar": "الطائف" },
+    "airport": { "en": "Taif Regional Airport", "ar": "مطار الطائف الإقليمي" }
+  },
+  "AHB": {
+    "city": { "en": "Abha", "ar": "أبها" },
+    "airport": { "en": "Abha Regional Airport", "ar": "مطار أبها الإقليمي" }
+  },
+  "TUU": {
+    "city": { "en": "Tabuk", "ar": "تبوك" },
+    "airport": { "en": "Tabuk Regional Airport", "ar": "مطار تبوك الإقليمي" }
+  },
+  "HAS": {
+    "city": { "en": "Hail", "ar": "حائل" },
+    "airport": { "en": "Hail Regional Airport", "ar": "مطار حائل الإقليمي" }
+  },
+  "ELQ": {
+    "city": { "en": "Al-Qassim", "ar": "القصيم" },
+    "airport": {
+      "en": "Prince Nayef Bin Abdulaziz Airport",
+      "ar": "مطار الأمير نايف بن عبدالعزيز"
+    }
+  },
+  "GIZ": {
+    "city": { "en": "Jazan", "ar": "جازان" },
+    "airport": { "en": "Jazan Regional Airport", "ar": "مطار جازان الإقليمي" }
+  },
+  "YNB": {
+    "city": { "en": "Yanbu", "ar": "ينبع" },
+    "airport": { "en": "Yanbu Airport", "ar": "مطار ينبع" }
+  },
+  "SHW": {
+    "city": { "en": "Sharurah", "ar": "شرورة" },
+    "airport": { "en": "Sharurah Airport", "ar": "مطار شرورة" }
+  },
+  "URY": {
+    "city": { "en": "Gurayat", "ar": "القريات" },
+    "airport": { "en": "Gurayat Airport", "ar": "مطار القريات" }
+  },
+  "RAE": {
+    "city": { "en": "Arar", "ar": "عرعر" },
+    "airport": { "en": "Arar Airport", "ar": "مطار عرعر" }
+  },
+  "AJF": {
+    "city": { "en": "Al-Jouf", "ar": "الجوف" },
+    "airport": { "en": "Al-Jouf Airport", "ar": "مطار الجوف" }
+  },
+  "WAE": {
+    "city": { "en": "Wadi Ad-Dawasir", "ar": "وادي الدواسر" },
+    "airport": { "en": "Wadi Ad-Dawasir Airport", "ar": "مطار وادي الدواسر" }
+  },
+  "BHH": {
+    "city": { "en": "Bisha", "ar": "بيشة" },
+    "airport": { "en": "Bisha Airport", "ar": "مطار بيشة" }
+  },
+  "ABT": {
+    "city": { "en": "Al-Baha", "ar": "الباحة" },
+    "airport": { "en": "Al-Baha Airport", "ar": "مطار الباحة" }
+  },
+  "HOF": {
+    "city": { "en": "Al-Ahsa", "ar": "الأحساء" },
+    "airport": { "en": "Al-Ahsa Airport", "ar": "مطار الأحساء" }
+  },
+  "DWD": {
+    "city": { "en": "Dawadmi", "ar": "الدوادمي" },
+    "airport": { "en": "Dawadmi Airport", "ar": "مطار الدوادمي" }
+  },
+  "DXB": {
+    "city": { "en": "Dubai", "ar": "دبي" },
+    "airport": { "en": "Dubai International Airport", "ar": "مطار دبي الدولي" }
+  },
+  "AUH": {
+    "city": { "en": "Abu Dhabi", "ar": "أبو ظبي" },
+    "airport": {
+      "en": "Abu Dhabi International Airport",
+      "ar": "مطار أبو ظبي الدولي"
+    }
+  },
+  "SHJ": {
+    "city": { "en": "Sharjah", "ar": "الشارقة" },
+    "airport": {
+      "en": "Sharjah International Airport",
+      "ar": "مطار الشارقة الدولي"
+    }
+  },
+  "AAN": {
+    "city": { "en": "Al Ain", "ar": "العين" },
+    "airport": {
+      "en": "Al Ain International Airport",
+      "ar": "مطار العين الدولي"
+    }
+  },
+  "RAS": {
+    "city": { "en": "Ras Al Khaimah", "ar": "رأس الخيمة" },
+    "airport": {
+      "en": "Ras Al Khaimah International Airport",
+      "ar": "مطار رأس الخيمة الدولي"
+    }
+  },
+  "FJR": {
+    "city": { "en": "Fujairah", "ar": "الفجيرة" },
+    "airport": {
+      "en": "Fujairah International Airport",
+      "ar": "مطار الفجيرة الدولي"
+    }
+  },
+  "DWC": {
+    "city": { "en": "Dubai", "ar": "دبي" },
+    "airport": {
+      "en": "Al Maktoum International Airport",
+      "ar": "مطار آل مكتوم الدولي"
+    }
+  },
+  "DOH": {
+    "city": { "en": "Doha", "ar": "الدوحة" },
+    "airport": { "en": "Hamad International Airport", "ar": "مطار حمد الدولي" }
+  },
+  "KWI": {
+    "city": { "en": "Kuwait City", "ar": "مدينة الكويت" },
+    "airport": {
+      "en": "Kuwait International Airport",
+      "ar": "مطار الكويت الدولي"
+    }
+  },
+  "BAH": {
+    "city": { "en": "Manama", "ar": "المنامة" },
+    "airport": {
+      "en": "Bahrain International Airport",
+      "ar": "مطار البحرين الدولي"
+    }
+  },
+  "MCT": {
+    "city": { "en": "Muscat", "ar": "مسقط" },
+    "airport": {
+      "en": "Muscat International Airport",
+      "ar": "مطار مسقط الدولي"
+    }
+  },
+  "SLL": {
+    "city": { "en": "Salalah", "ar": "صلالة" },
+    "airport": { "en": "Salalah Airport", "ar": "مطار صلالة" }
+  },
+  "CAI": {
+    "city": { "en": "Cairo", "ar": "القاهرة" },
+    "airport": {
+      "en": "Cairo International Airport",
+      "ar": "مطار القاهرة الدولي"
+    }
+  },
+  "ALY": {
+    "city": { "en": "Alexandria", "ar": "الإسكندرية" },
+    "airport": { "en": "Borg El Arab Airport", "ar": "مطار برج العرب" }
+  },
+  "HRG": {
+    "city": { "en": "Hurghada", "ar": "الغردقة" },
+    "airport": {
+      "en": "Hurghada International Airport",
+      "ar": "مطار الغردقة الدولي"
+    }
+  },
+  "SSH": {
+    "city": { "en": "Sharm El Sheikh", "ar": "شرم الشيخ" },
+    "airport": {
+      "en": "Sharm El Sheikh International Airport",
+      "ar": "مطار شرم الشيخ الدولي"
+    }
+  },
+  "LXR": {
+    "city": { "en": "Luxor", "ar": "الأقصر" },
+    "airport": {
+      "en": "Luxor International Airport",
+      "ar": "مطار الأقصر الدولي"
+    }
+  },
+  "ASW": {
+    "city": { "en": "Aswan", "ar": "أسوان" },
+    "airport": {
+      "en": "Aswan International Airport",
+      "ar": "مطار أسوان الدولي"
+    }
+  },
+  "ATZ": {
+    "city": { "en": "Assiut", "ar": "أسيوط" },
+    "airport": { "en": "Assiut Airport", "ar": "مطار أسيوط" }
+  },
+  "MUH": {
+    "city": { "en": "Mersa Matruh", "ar": "مرسى مطروح" },
+    "airport": { "en": "Mersa Matruh Airport", "ar": "مطار مرسى مطروح" }
+  },
+  "RMF": {
+    "city": { "en": "Marsa Alam", "ar": "مرسى علم" },
+    "airport": {
+      "en": "Marsa Alam International Airport",
+      "ar": "مطار مرسى علم الدولي"
+    }
+  },
+  "SPX": {
+    "city": { "en": "Sphinx", "ar": "أبو صوير" },
+    "airport": {
+      "en": "Sphinx International Airport",
+      "ar": "مطار سفنكس الدولي"
+    }
+  },
+  "HBE": {
+    "city": { "en": "Alexandria", "ar": "الإسكندرية" },
+    "airport": { "en": "Borg El Arab Airport", "ar": "مطار برج العرب" }
+  },
+  "IST": {
+    "city": { "en": "Istanbul", "ar": "إسطنبول" },
+    "airport": { "en": "Istanbul Airport", "ar": "مطار إسطنبول" }
+  },
+  "SAW": {
+    "city": { "en": "Istanbul", "ar": "إسطنبول" },
+    "airport": {
+      "en": "Sabiha Gokcen International Airport",
+      "ar": "مطار صبيحة كوكجن الدولي"
+    }
+  },
+  "AYT": {
+    "city": { "en": "Antalya", "ar": "أنطاليا" },
+    "airport": { "en": "Antalya Airport", "ar": "مطار أنطاليا" }
+  },
+  "ESB": {
+    "city": { "en": "Ankara", "ar": "أنقرة" },
+    "airport": { "en": "Esenboga Airport", "ar": "مطار أسنبوغا" }
+  },
+  "ADB": {
+    "city": { "en": "Izmir", "ar": "إزمير" },
+    "airport": { "en": "Adnan Menderes Airport", "ar": "مطار عدنان مندريس" }
+  },
+  "BJV": {
+    "city": { "en": "Bodrum", "ar": "بودروم" },
+    "airport": { "en": "Bodrum Airport", "ar": "مطار بودروم" }
+  },
+  "ADA": {
+    "city": { "en": "Adana", "ar": "أضنة" },
+    "airport": { "en": "Adana Airport", "ar": "مطار أضنة" }
+  },
+  "TZX": {
+    "city": { "en": "Trabzon", "ar": "طرابزون" },
+    "airport": { "en": "Trabzon Airport", "ar": "مطار طرابزون" }
+  },
+  "GZT": {
+    "city": { "en": "Gaziantep", "ar": "غازي عنتاب" },
+    "airport": { "en": "Gaziantep Airport", "ar": "مطار غازي عنتاب" }
+  },
+  "DLM": {
+    "city": { "en": "Dalaman", "ar": "دالامان" },
+    "airport": { "en": "Dalaman Airport", "ar": "مطار دالامان" }
+  },
+  "KYA": {
+    "city": { "en": "Konya", "ar": "قونية" },
+    "airport": { "en": "Konya Airport", "ar": "مطار قونية" }
+  },
+  "VAN": {
+    "city": { "en": "Van", "ar": "وان" },
+    "airport": { "en": "Van Ferit Melen Airport", "ar": "مطار وان فريت ملن" }
+  },
+  "ASR": {
+    "city": { "en": "Kayseri", "ar": "قيصري" },
+    "airport": { "en": "Kayseri Airport", "ar": "مطار قيصري" }
+  },
+  "EZS": {
+    "city": { "en": "Elazig", "ar": "إيلازيغ" },
+    "airport": { "en": "Elazig Airport", "ar": "مطار إيلازيغ" }
+  },
+  "DIY": {
+    "city": { "en": "Diyarbakir", "ar": "ديار بكر" },
+    "airport": { "en": "Diyarbakir Airport", "ar": "مطار ديار بكر" }
+  },
+  "DNZ": {
+    "city": { "en": "Denizli", "ar": "دنيزلي" },
+    "airport": { "en": "Cardak Airport", "ar": "مطار كارداك" }
+  },
+  "SVS": {
+    "city": { "en": "Sivas", "ar": "سيواس" },
+    "airport": { "en": "Sivas Airport", "ar": "مطار سيواس" }
+  },
+  "MQM": {
+    "city": { "en": "Mardin", "ar": "ماردين" },
+    "airport": { "en": "Mardin Airport", "ar": "مطار ماردين" }
+  },
+  "KSY": {
+    "city": { "en": "Kars", "ar": "كارس" },
+    "airport": { "en": "Kars Airport", "ar": "مطار كارس" }
+  },
+  "BAL": {
+    "city": { "en": "Batman", "ar": "باتمان" },
+    "airport": { "en": "Batman Airport", "ar": "مطار باتمان" }
+  },
+  "AMM": {
+    "city": { "en": "Amman", "ar": "عمان" },
+    "airport": {
+      "en": "Queen Alia International Airport",
+      "ar": "مطار الملكة علياء الدولي"
+    }
+  },
+  "AQJ": {
+    "city": { "en": "Aqaba", "ar": "العقبة" },
+    "airport": {
+      "en": "King Hussein International Airport",
+      "ar": "مطار الملك الحسين الدولي"
+    }
+  },
+  "BEY": {
+    "city": { "en": "Beirut", "ar": "بيروت" },
+    "airport": {
+      "en": "Rafic Hariri International Airport",
+      "ar": "مطار رفيق الحريري الدولي"
+    }
+  },
+  "DAM": {
+    "city": { "en": "Damascus", "ar": "دمشق" },
+    "airport": {
+      "en": "Damascus International Airport",
+      "ar": "مطار دمشق الدولي"
+    }
+  },
+  "BGW": {
+    "city": { "en": "Baghdad", "ar": "بغداد" },
+    "airport": {
+      "en": "Baghdad International Airport",
+      "ar": "مطار بغداد الدولي"
+    }
+  },
+  "BSR": {
+    "city": { "en": "Basra", "ar": "البصرة" },
+    "airport": {
+      "en": "Basra International Airport",
+      "ar": "مطار البصرة الدولي"
+    }
+  },
+  "EBL": {
+    "city": { "en": "Erbil", "ar": "أربيل" },
+    "airport": {
+      "en": "Erbil International Airport",
+      "ar": "مطار أربيل الدولي"
+    }
+  },
+  "CMN": {
+    "city": { "en": "Casablanca", "ar": "الدار البيضاء" },
+    "airport": {
+      "en": "Mohammed V International Airport",
+      "ar": "مطار محمد الخامس الدولي"
+    }
+  },
+  "RAK": {
+    "city": { "en": "Marrakech", "ar": "مراكش" },
+    "airport": { "en": "Marrakech Menara Airport", "ar": "مطار مراكش المنارة" }
+  },
+  "TUN": {
+    "city": { "en": "Tunis", "ar": "تونس" },
+    "airport": { "en": "Tunis-Carthage Airport", "ar": "مطار تونس قرطاج" }
+  },
+  "ALG": {
+    "city": { "en": "Algiers", "ar": "الجزائر" },
+    "airport": { "en": "Houari Boumediene Airport", "ar": "مطار هواري بومدين" }
+  },
+  "TIP": {
+    "city": { "en": "Tripoli", "ar": "طرابلس" },
+    "airport": {
+      "en": "Tripoli International Airport",
+      "ar": "مطار طرابلس الدولي"
+    }
+  },
+  "KRT": {
+    "city": { "en": "Khartoum", "ar": "الخرطوم" },
+    "airport": {
+      "en": "Khartoum International Airport",
+      "ar": "مطار الخرطوم الدولي"
+    }
+  },
+  "TLV": {
+    "city": { "en": "Tel Aviv", "ar": "تل أبيب" },
+    "airport": { "en": "Ben Gurion Airport", "ar": "مطار بن غوريون" }
+  },
+  "LHR": {
+    "city": { "en": "London", "ar": "لندن" },
+    "airport": { "en": "London Heathrow Airport", "ar": "مطار لندن هيثرو" }
+  },
+  "LGW": {
+    "city": { "en": "London", "ar": "لندن" },
+    "airport": { "en": "London Gatwick Airport", "ar": "مطار لندن غاتويك" }
+  },
+  "STN": {
+    "city": { "en": "London", "ar": "لندن" },
+    "airport": { "en": "London Stansted Airport", "ar": "مطار لندن ستانستيد" }
+  },
+  "LTN": {
+    "city": { "en": "London", "ar": "لندن" },
+    "airport": { "en": "London Luton Airport", "ar": "مطار لندن لوتون" }
+  },
+  "LCY": {
+    "city": { "en": "London", "ar": "لندن" },
+    "airport": { "en": "London City Airport", "ar": "مطار لندن سيتي" }
+  },
+  "MAN": {
+    "city": { "en": "Manchester", "ar": "مانشستر" },
+    "airport": { "en": "Manchester Airport", "ar": "مطار مانشستر" }
+  },
+  "BHX": {
+    "city": { "en": "Birmingham", "ar": "برمنغهام" },
+    "airport": { "en": "Birmingham Airport", "ar": "مطار برمنغهام" }
+  },
+  "EDI": {
+    "city": { "en": "Edinburgh", "ar": "إدنبرة" },
+    "airport": { "en": "Edinburgh Airport", "ar": "مطار إدنبرة" }
+  },
+  "GLA": {
+    "city": { "en": "Glasgow", "ar": "غلاسكو" },
+    "airport": { "en": "Glasgow Airport", "ar": "مطار غلاسكو" }
+  },
+  "CDG": {
+    "city": { "en": "Paris", "ar": "باريس" },
+    "airport": { "en": "Charles de Gaulle Airport", "ar": "مطار شارل ديغول" }
+  },
+  "ORY": {
+    "city": { "en": "Paris", "ar": "باريس" },
+    "airport": { "en": "Paris Orly Airport", "ar": "مطار باريس أورلي" }
+  },
+  "NCE": {
+    "city": { "en": "Nice", "ar": "نيس" },
+    "airport": { "en": "Nice Côte d'Azur Airport", "ar": "مطار نيس كوت دازور" }
+  },
+  "MRS": {
+    "city": { "en": "Marseille", "ar": "مرسيليا" },
+    "airport": {
+      "en": "Marseille Provence Airport",
+      "ar": "مطار مرسيليا بروفانس"
+    }
+  },
+  "LYS": {
+    "city": { "en": "Lyon", "ar": "ليون" },
+    "airport": {
+      "en": "Lyon-Saint Exupéry Airport",
+      "ar": "مطار ليون سانت إكزوبيري"
+    }
+  },
+  "TLS": {
+    "city": { "en": "Toulouse", "ar": "تولوز" },
+    "airport": { "en": "Toulouse-Blagnac Airport", "ar": "مطار تولوز بلانياك" }
+  },
+  "FRA": {
+    "city": { "en": "Frankfurt", "ar": "فرانكفورت" },
+    "airport": { "en": "Frankfurt Airport", "ar": "مطار فرانكفورت" }
+  },
+  "MUC": {
+    "city": { "en": "Munich", "ar": "ميونخ" },
+    "airport": { "en": "Munich Airport", "ar": "مطار ميونخ" }
+  },
+  "BER": {
+    "city": { "en": "Berlin", "ar": "برلين" },
+    "airport": {
+      "en": "Berlin Brandenburg Airport",
+      "ar": "مطار برلين براندنبورغ"
+    }
+  },
+  "FCO": {
+    "city": { "en": "Rome", "ar": "روما" },
+    "airport": {
+      "en": "Leonardo da Vinci Airport",
+      "ar": "مطار ليوناردو دا فينشي"
+    }
+  },
+  "MXP": {
+    "city": { "en": "Milan", "ar": "ميلانو" },
+    "airport": { "en": "Milan Malpensa Airport", "ar": "مطار ميلانو مالبينسا" }
+  },
+  "MAD": {
+    "city": { "en": "Madrid", "ar": "مدريد" },
+    "airport": {
+      "en": "Adolfo Suarez Madrid-Barajas Airport",
+      "ar": "مطار مدريد باراخاس"
+    }
+  },
+  "BCN": {
+    "city": { "en": "Barcelona", "ar": "برشلونة" },
+    "airport": {
+      "en": "Barcelona-El Prat Airport",
+      "ar": "مطار برشلونة إل برات"
+    }
+  },
+  "AGP": {
+    "city": { "en": "Malaga", "ar": "مالقا" },
+    "airport": {
+      "en": "Malaga-Costa del Sol Airport",
+      "ar": "مطار ملقا كوستا ديل سول"
+    }
+  },
+  "VLC": {
+    "city": { "en": "Valencia", "ar": "فالنسيا" },
+    "airport": { "en": "Valencia Airport", "ar": "مطار فالنسيا" }
+  },
+  "SVQ": {
+    "city": { "en": "Seville", "ar": "إشبيلية" },
+    "airport": { "en": "Seville Airport", "ar": "مطار إشبيلية" }
+  },
+  "BIO": {
+    "city": { "en": "Bilbao", "ar": "بلباو" },
+    "airport": { "en": "Bilbao Airport", "ar": "مطار بلباو" }
+  },
+  "PMI": {
+    "city": { "en": "Palma de Mallorca", "ar": "بالما دي مايوركا" },
+    "airport": {
+      "en": "Palma de Mallorca Airport",
+      "ar": "مطار بالما دي مايوركا"
+    }
+  },
+  "IBZ": {
+    "city": { "en": "Ibiza", "ar": "إيبيزا" },
+    "airport": { "en": "Ibiza Airport", "ar": "مطار إيبيزا" }
+  },
+  "TFS": {
+    "city": { "en": "Tenerife", "ar": "تينيريفي" },
+    "airport": { "en": "Tenerife South Airport", "ar": "مطار تينيريفي الجنوبي" }
+  },
+  "LPA": {
+    "city": { "en": "Gran Canaria", "ar": "جران كناريا" },
+    "airport": { "en": "Gran Canaria Airport", "ar": "مطار جران كناريا" }
+  },
+  "LIS": {
+    "city": { "en": "Lisbon", "ar": "لشبونة" },
+    "airport": { "en": "Lisbon Portela Airport", "ar": "مطار لشبونة بورتيلا" }
+  },
+  "OPO": {
+    "city": { "en": "Porto", "ar": "بورتو" },
+    "airport": { "en": "Porto Airport", "ar": "مطار بورتو" }
+  },
+  "FAO": {
+    "city": { "en": "Faro", "ar": "فارو" },
+    "airport": { "en": "Faro Airport", "ar": "مطار فارو" }
+  },
+  "AMS": {
+    "city": { "en": "Amsterdam", "ar": "أمستردام" },
+    "airport": {
+      "en": "Amsterdam Schiphol Airport",
+      "ar": "مطار أمستردام شيبول"
+    }
+  },
+  "BRU": {
+    "city": { "en": "Brussels", "ar": "بروكسل" },
+    "airport": { "en": "Brussels Airport", "ar": "مطار بروكسل" }
+  },
+  "ZRH": {
+    "city": { "en": "Zurich", "ar": "زيورخ" },
+    "airport": { "en": "Zurich Airport", "ar": "مطار زيورخ" }
+  },
+  "VIE": {
+    "city": { "en": "Vienna", "ar": "فيينا" },
+    "airport": {
+      "en": "Vienna International Airport",
+      "ar": "مطار فيينا الدولي"
+    }
+  },
+  "CPH": {
+    "city": { "en": "Copenhagen", "ar": "كوبنهاغن" },
+    "airport": { "en": "Copenhagen Airport", "ar": "مطار كوبنهاغن" }
+  },
+  "ARN": {
+    "city": { "en": "Stockholm", "ar": "ستوكهولم" },
+    "airport": {
+      "en": "Stockholm Arlanda Airport",
+      "ar": "مطار ستوكهولم أرلاندا"
+    }
+  },
+  "OSL": {
+    "city": { "en": "Oslo", "ar": "أوسلو" },
+    "airport": { "en": "Oslo Airport", "ar": "مطار أوسلو" }
+  },
+  "HEL": {
+    "city": { "en": "Helsinki", "ar": "هلسنكي" },
+    "airport": { "en": "Helsinki-Vantaa Airport", "ar": "مطار هلسنكي فانتا" }
+  },
+  "DUB": {
+    "city": { "en": "Dublin", "ar": "دبلن" },
+    "airport": { "en": "Dublin Airport", "ar": "مطار دبلن" }
+  },
+  "ATH": {
+    "city": { "en": "Athens", "ar": "أثينا" },
+    "airport": {
+      "en": "Athens International Airport",
+      "ar": "مطار أثينا الدولي"
+    }
+  },
+  "SKG": {
+    "city": { "en": "Thessaloniki", "ar": "سالونيك" },
+    "airport": { "en": "Thessaloniki Airport", "ar": "مطار سالونيك" }
+  },
+  "HER": {
+    "city": { "en": "Heraklion", "ar": "هيراكليون" },
+    "airport": { "en": "Heraklion Airport", "ar": "مطار هيراكليون" }
+  },
+  "RHO": {
+    "city": { "en": "Rhodes", "ar": "رودس" },
+    "airport": {
+      "en": "Rhodes International Airport",
+      "ar": "مطار رودس الدولي"
+    }
+  },
+  "CFU": {
+    "city": { "en": "Corfu", "ar": "كورفو" },
+    "airport": {
+      "en": "Corfu International Airport",
+      "ar": "مطار كورفو الدولي"
+    }
+  },
+  "JMK": {
+    "city": { "en": "Mykonos", "ar": "ميكونوس" },
+    "airport": { "en": "Mykonos Airport", "ar": "مطار ميكونوس" }
+  },
+  "JTR": {
+    "city": { "en": "Santorini", "ar": "سانتوريني" },
+    "airport": { "en": "Santorini Airport", "ar": "مطار سانتوريني" }
+  },
+  "BUD": {
+    "city": { "en": "Budapest", "ar": "بودابست" },
+    "airport": {
+      "en": "Budapest Ferenc Liszt International Airport",
+      "ar": "مطار بودابست فيرينتس ليست الدولي"
+    }
+  },
+  "PRG": {
+    "city": { "en": "Prague", "ar": "براغ" },
+    "airport": {
+      "en": "Václav Havel Airport Prague",
+      "ar": "مطار فاتسلاف هافل براغ"
+    }
+  },
+  "WAW": {
+    "city": { "en": "Warsaw", "ar": "وارسو" },
+    "airport": { "en": "Warsaw Chopin Airport", "ar": "مطار وارسو شوبان" }
+  },
+  "KRK": {
+    "city": { "en": "Krakow", "ar": "كراكوف" },
+    "airport": {
+      "en": "John Paul II Kraków-Balice Airport",
+      "ar": "مطار كراكوف يوحنا بولس الثاني"
+    }
+  },
+  "OTP": {
+    "city": { "en": "Bucharest", "ar": "بوخارست" },
+    "airport": {
+      "en": "Henri Coandă International Airport",
+      "ar": "مطار هنري كواندا الدولي"
+    }
+  },
+  "SOF": {
+    "city": { "en": "Sofia", "ar": "صوفيا" },
+    "airport": { "en": "Sofia Airport", "ar": "مطار صوفيا" }
+  },
+  "BEG": {
+    "city": { "en": "Belgrade", "ar": "بلغراد" },
+    "airport": {
+      "en": "Belgrade Nikola Tesla Airport",
+      "ar": "مطار بلغراد نيكولا تيسلا"
+    }
+  },
+  "ZAG": {
+    "city": { "en": "Zagreb", "ar": "زغرب" },
+    "airport": { "en": "Zagreb Airport", "ar": "مطار زغرب" }
+  },
+  "DBV": {
+    "city": { "en": "Dubrovnik", "ar": "دوبروفنيك" },
+    "airport": { "en": "Dubrovnik Airport", "ar": "مطار دوبروفنيك" }
+  },
+  "SPU": {
+    "city": { "en": "Split", "ar": "سبليت" },
+    "airport": { "en": "Split Airport", "ar": "مطار سبليت" }
+  },
+  "LJU": {
+    "city": { "en": "Ljubljana", "ar": "ليوبليانا" },
+    "airport": { "en": "Ljubljana Jože Pučnik Airport", "ar": "مطار ليوبليانا" }
+  },
+  "TIA": {
+    "city": { "en": "Tirana", "ar": "تيرانا" },
+    "airport": {
+      "en": "Tirana International Airport",
+      "ar": "مطار تيرانا الدولي"
+    }
+  },
+  "SKP": {
+    "city": { "en": "Skopje", "ar": "سكوبيه" },
+    "airport": {
+      "en": "Skopje International Airport",
+      "ar": "مطار سكوبيه الدولي"
+    }
+  },
+  "SJJ": {
+    "city": { "en": "Sarajevo", "ar": "سراييفو" },
+    "airport": {
+      "en": "Sarajevo International Airport",
+      "ar": "مطار سراييفو الدولي"
+    }
+  },
+  "PRN": {
+    "city": { "en": "Pristina", "ar": "بريشتينا" },
+    "airport": {
+      "en": "Pristina International Airport",
+      "ar": "مطار بريشتينا الدولي"
+    }
+  },
+  "TGD": {
+    "city": { "en": "Podgorica", "ar": "بودغوريتسا" },
+    "airport": { "en": "Podgorica Airport", "ar": "مطار بودغوريتسا" }
+  },
+  "SVO": {
+    "city": { "en": "Moscow", "ar": "موسكو" },
+    "airport": {
+      "en": "Sheremetyevo International Airport",
+      "ar": "مطار شيريميتيفو الدولي"
+    }
+  },
+  "DME": {
+    "city": { "en": "Moscow", "ar": "موسكو" },
+    "airport": {
+      "en": "Domodedovo International Airport",
+      "ar": "مطار دوموديدوفو الدولي"
+    }
+  },
+  "VKO": {
+    "city": { "en": "Moscow", "ar": "موسكو" },
+    "airport": {
+      "en": "Vnukovo International Airport",
+      "ar": "مطار فنوكوفو الدولي"
+    }
+  },
+  "LED": {
+    "city": { "en": "Saint Petersburg", "ar": "سانت بطرسبرغ" },
+    "airport": { "en": "Pulkovo Airport", "ar": "مطار بولكوفو" }
+  },
+  "KZN": {
+    "city": { "en": "Kazan", "ar": "قازان" },
+    "airport": {
+      "en": "Kazan International Airport",
+      "ar": "مطار قازان الدولي"
+    }
+  },
+  "KJA": {
+    "city": { "en": "Krasnoyarsk", "ar": "كراسنويارسك" },
+    "airport": {
+      "en": "Krasnoyarsk International Airport",
+      "ar": "مطار كراسنويارسك الدولي"
+    }
+  },
+  "TLL": {
+    "city": { "en": "Tallinn", "ar": "تالين" },
+    "airport": { "en": "Tallinn Airport", "ar": "مطار تالين" }
+  },
+  "RIX": {
+    "city": { "en": "Riga", "ar": "ريغا" },
+    "airport": { "en": "Riga International Airport", "ar": "مطار ريغا الدولي" }
+  },
+  "VNO": {
+    "city": { "en": "Vilnius", "ar": "فيلنيوس" },
+    "airport": { "en": "Vilnius Airport", "ar": "مطار فيلنيوس" }
+  },
+  "KBP": {
+    "city": { "en": "Kyiv", "ar": "كييف" },
+    "airport": {
+      "en": "Boryspil International Airport",
+      "ar": "مطار بوريسبيل الدولي"
+    }
+  },
+  "ODS": {
+    "city": { "en": "Odessa", "ar": "أوديسا" },
+    "airport": {
+      "en": "Odessa International Airport",
+      "ar": "مطار أوديسا الدولي"
+    }
+  },
+  "LVV": {
+    "city": { "en": "Lviv", "ar": "لفيف" },
+    "airport": {
+      "en": "Lviv Danylo Halytskyi International Airport",
+      "ar": "مطار لفيف الدولي"
+    }
+  },
+  "KIV": {
+    "city": { "en": "Chisinau", "ar": "كيشيناو" },
+    "airport": {
+      "en": "Chișinău International Airport",
+      "ar": "مطار كيشيناو الدولي"
+    }
+  },
+  "TBS": {
+    "city": { "en": "Tbilisi", "ar": "تبليسي" },
+    "airport": {
+      "en": "Tbilisi International Airport",
+      "ar": "مطار تبليسي الدولي"
+    }
+  },
+  "BUS": {
+    "city": { "en": "Batumi", "ar": "باتومي" },
+    "airport": {
+      "en": "Batumi International Airport",
+      "ar": "مطار باتومي الدولي"
+    }
+  },
+  "EVN": {
+    "city": { "en": "Yerevan", "ar": "يريفان" },
+    "airport": {
+      "en": "Zvartnots International Airport",
+      "ar": "مطار زفارتنوتس الدولي"
+    }
+  },
+  "GYD": {
+    "city": { "en": "Baku", "ar": "باكو" },
+    "airport": {
+      "en": "Heydar Aliyev International Airport",
+      "ar": "مطار حيدر علييف الدولي"
+    }
+  },
+  "TAS": {
+    "city": { "en": "Tashkent", "ar": "طشقند" },
+    "airport": {
+      "en": "Tashkent International Airport",
+      "ar": "مطار طشقند الدولي"
+    }
+  },
+  "FRU": {
+    "city": { "en": "Bishkek", "ar": "بيشكيك" },
+    "airport": {
+      "en": "Manas International Airport",
+      "ar": "مطار ماناس الدولي"
+    }
+  },
+  "DYU": {
+    "city": { "en": "Dushanbe", "ar": "دوشنبه" },
+    "airport": {
+      "en": "Dushanbe International Airport",
+      "ar": "مطار دوشنبه الدولي"
+    }
+  },
+  "ASB": {
+    "city": { "en": "Ashgabat", "ar": "عشق آباد" },
+    "airport": {
+      "en": "Ashgabat International Airport",
+      "ar": "مطار عشق آباد الدولي"
+    }
+  },
+  "ALA": {
+    "city": { "en": "Almaty", "ar": "ألماتي" },
+    "airport": {
+      "en": "Almaty International Airport",
+      "ar": "مطار ألماتي الدولي"
+    }
+  },
+  "TSE": {
+    "city": { "en": "Nur-Sultan", "ar": "نور سلطان" },
+    "airport": {
+      "en": "Nursultan Nazarbayev International Airport",
+      "ar": "مطار نور سلطان نزارباييف الدولي"
+    }
+  },
+  "ULN": {
+    "city": { "en": "Ulaanbaatar", "ar": "أولان باتور" },
+    "airport": {
+      "en": "Chinggis Khaan International Airport",
+      "ar": "مطار چنگيز خان الدولي"
+    }
+  },
+  "JFK": {
+    "city": { "en": "New York", "ar": "نيويورك" },
+    "airport": {
+      "en": "John F. Kennedy International Airport",
+      "ar": "مطار جون كينيدي الدولي"
+    }
+  },
+  "LAX": {
+    "city": { "en": "Los Angeles", "ar": "لوس أنجلوس" },
+    "airport": {
+      "en": "Los Angeles International Airport",
+      "ar": "مطار لوس أنجلوس الدولي"
+    }
+  },
+  "ORD": {
+    "city": { "en": "Chicago", "ar": "شيكاغو" },
+    "airport": {
+      "en": "O'Hare International Airport",
+      "ar": "مطار أوهير الدولي"
+    }
+  },
+  "MIA": {
+    "city": { "en": "Miami", "ar": "ميامي" },
+    "airport": {
+      "en": "Miami International Airport",
+      "ar": "مطار ميامي الدولي"
+    }
+  },
+  "IAD": {
+    "city": { "en": "Washington", "ar": "واشنطن" },
+    "airport": {
+      "en": "Washington Dulles International Airport",
+      "ar": "مطار واشنطن دالاس الدولي"
+    }
+  },
+  "YYZ": {
+    "city": { "en": "Toronto", "ar": "تورونتو" },
+    "airport": {
+      "en": "Toronto Pearson International Airport",
+      "ar": "مطار تورونتو بيرسون الدولي"
+    }
+  },
+  "YVR": {
+    "city": { "en": "Vancouver", "ar": "فانكوفر" },
+    "airport": {
+      "en": "Vancouver International Airport",
+      "ar": "مطار فانكوفر الدولي"
+    }
+  },
+  "MEX": {
+    "city": { "en": "Mexico City", "ar": "مكسيكو سيتي" },
+    "airport": {
+      "en": "Mexico City International Airport",
+      "ar": "مطار مكسيكو سيتي الدولي"
+    }
+  },
+  "GRU": {
+    "city": { "en": "Sao Paulo", "ar": "ساو باولو" },
+    "airport": {
+      "en": "Guarulhos International Airport",
+      "ar": "مطار غوارولوس الدولي"
+    }
+  },
+  "EZE": {
+    "city": { "en": "Buenos Aires", "ar": "بوينس آيرس" },
+    "airport": {
+      "en": "Ezeiza International Airport",
+      "ar": "مطار إيزيزا الدولي"
+    }
+  },
+  "PEK": {
+    "city": { "en": "Beijing", "ar": "بكين" },
+    "airport": {
+      "en": "Beijing Capital International Airport",
+      "ar": "مطار بكين الدولي"
+    }
+  },
+  "PVG": {
+    "city": { "en": "Shanghai", "ar": "شانغهاي" },
+    "airport": {
+      "en": "Shanghai Pudong International Airport",
+      "ar": "مطار شانغهاي بودونغ الدولي"
+    }
+  },
+  "CAN": {
+    "city": { "en": "Guangzhou", "ar": "قوانغتشو" },
+    "airport": {
+      "en": "Guangzhou Baiyun International Airport",
+      "ar": "مطار قوانغتشو بايون الدولي"
+    }
+  },
+  "HKG": {
+    "city": { "en": "Hong Kong", "ar": "هونغ كونغ" },
+    "airport": {
+      "en": "Hong Kong International Airport",
+      "ar": "مطار هونغ كونغ الدولي"
+    }
+  },
+  "NRT": {
+    "city": { "en": "Tokyo", "ar": "طوكيو" },
+    "airport": {
+      "en": "Narita International Airport",
+      "ar": "مطار ناريتا الدولي"
+    }
+  },
+  "HND": {
+    "city": { "en": "Tokyo", "ar": "طوكيو" },
+    "airport": { "en": "Tokyo Haneda Airport", "ar": "مطار طوكيو هانيدا" }
+  },
+  "ICN": {
+    "city": { "en": "Seoul", "ar": "سيول" },
+    "airport": {
+      "en": "Incheon International Airport",
+      "ar": "مطار إنتشون الدولي"
+    }
+  },
+  "SIN": {
+    "city": { "en": "Singapore", "ar": "سنغافورة" },
+    "airport": {
+      "en": "Singapore Changi Airport",
+      "ar": "مطار سنغافورة تشانغي"
+    }
+  },
+  "BKK": {
+    "city": { "en": "Bangkok", "ar": "بانكوك" },
+    "airport": { "en": "Suvarnabhumi Airport", "ar": "مطار سوفارنابومي" }
+  },
+  "KUL": {
+    "city": { "en": "Kuala Lumpur", "ar": "كوالالمبور" },
+    "airport": {
+      "en": "Kuala Lumpur International Airport",
+      "ar": "مطار كوالالمبور الدولي"
+    }
+  },
+  "CGK": {
+    "city": { "en": "Jakarta", "ar": "جاكرتا" },
+    "airport": {
+      "en": "Soekarno-Hatta International Airport",
+      "ar": "مطار سوكارنو-هاتا الدولي"
+    }
+  },
+  "MNL": {
+    "city": { "en": "Manila", "ar": "مانيلا" },
+    "airport": {
+      "en": "Ninoy Aquino International Airport",
+      "ar": "مطار نينوي أكينو الدولي"
+    }
+  },
+  "DEL": {
+    "city": { "en": "New Delhi", "ar": "نيودلهي" },
+    "airport": {
+      "en": "Indira Gandhi International Airport",
+      "ar": "مطار إنديرا غاندي الدولي"
+    }
+  },
+  "BOM": {
+    "city": { "en": "Mumbai", "ar": "مومباي" },
+    "airport": {
+      "en": "Chhatrapati Shivaji Maharaj International Airport",
+      "ar": "مطار تشاتراباتي شيفاجي الدولي"
+    }
+  },
+  "BLR": {
+    "city": { "en": "Bangalore", "ar": "بنغالور" },
+    "airport": {
+      "en": "Kempegowda International Airport",
+      "ar": "مطار كيمبيغودا الدولي"
+    }
+  },
+  "HYD": {
+    "city": { "en": "Hyderabad", "ar": "حيدر أباد" },
+    "airport": {
+      "en": "Rajiv Gandhi International Airport",
+      "ar": "مطار راجيف غاندي الدولي"
+    }
+  },
+  "KHI": {
+    "city": { "en": "Karachi", "ar": "كراتشي" },
+    "airport": {
+      "en": "Jinnah International Airport",
+      "ar": "مطار جناح الدولي"
+    }
+  },
+  "LHE": {
+    "city": { "en": "Lahore", "ar": "لاهور" },
+    "airport": {
+      "en": "Allama Iqbal International Airport",
+      "ar": "مطار علامة إقبال الدولي"
+    }
+  },
+  "ISB": {
+    "city": { "en": "Islamabad", "ar": "إسلام أباد" },
+    "airport": {
+      "en": "Islamabad International Airport",
+      "ar": "مطار إسلام أباد الدولي"
+    }
+  },
+  "DAC": {
+    "city": { "en": "Dhaka", "ar": "داكا" },
+    "airport": {
+      "en": "Hazrat Shahjalal International Airport",
+      "ar": "مطار حضرة شاه جلال الدولي"
+    }
+  },
+  "CMB": {
+    "city": { "en": "Colombo", "ar": "كولومبو" },
+    "airport": {
+      "en": "Bandaranaike International Airport",
+      "ar": "مطار بندرنايكا الدولي"
+    }
+  },
+  "SYD": {
+    "city": { "en": "Sydney", "ar": "سيدني" },
+    "airport": {
+      "en": "Sydney Kingsford Smith Airport",
+      "ar": "مطار سيدني كينغسفورد سميث"
+    }
+  },
+  "MEL": {
+    "city": { "en": "Melbourne", "ar": "ملبورن" },
+    "airport": { "en": "Melbourne Airport", "ar": "مطار ملبورن" }
+  },
+  "BNE": {
+    "city": { "en": "Brisbane", "ar": "بريزبن" },
+    "airport": { "en": "Brisbane Airport", "ar": "مطار بريزبن" }
+  },
+  "PER": {
+    "city": { "en": "Perth", "ar": "بيرث" },
+    "airport": { "en": "Perth Airport", "ar": "مطار بيرث" }
+  },
+  "ADL": {
+    "city": { "en": "Adelaide", "ar": "أديلايد" },
+    "airport": { "en": "Adelaide Airport", "ar": "مطار أديلايد" }
+  },
+  "CNS": {
+    "city": { "en": "Cairns", "ar": "كيرنز" },
+    "airport": { "en": "Cairns Airport", "ar": "مطار كيرنز" }
+  },
+  "DRW": {
+    "city": { "en": "Darwin", "ar": "داروين" },
+    "airport": {
+      "en": "Darwin International Airport",
+      "ar": "مطار داروين الدولي"
+    }
+  },
+  "AKL": {
+    "city": { "en": "Auckland", "ar": "أوكلاند" },
+    "airport": { "en": "Auckland Airport", "ar": "مطار أوكلاند" }
+  },
+  "CHC": {
+    "city": { "en": "Christchurch", "ar": "كرايست تشيرش" },
+    "airport": {
+      "en": "Christchurch International Airport",
+      "ar": "مطار كرايست تشيرش الدولي"
+    }
+  },
+  "WLG": {
+    "city": { "en": "Wellington", "ar": "ويلينغتون" },
+    "airport": {
+      "en": "Wellington International Airport",
+      "ar": "مطار ويلينغتون الدولي"
+    }
+  },
+  "ZQN": {
+    "city": { "en": "Queenstown", "ar": "كوينزتاون" },
+    "airport": { "en": "Queenstown Airport", "ar": "مطار كوينزتاون" }
+  },
+  "PPT": {
+    "city": { "en": "Papeete", "ar": "بابيتي" },
+    "airport": { "en": "Faa'a International Airport", "ar": "مطار فاعا الدولي" }
+  },
+  "NAN": {
+    "city": { "en": "Nadi", "ar": "نادي" },
+    "airport": { "en": "Nadi International Airport", "ar": "مطار نادي الدولي" }
+  },
+  "APW": {
+    "city": { "en": "Apia", "ar": "آبيا" },
+    "airport": {
+      "en": "Faleolo International Airport",
+      "ar": "مطار فاليولو الدولي"
+    }
+  },
+  "NOU": {
+    "city": { "en": "Noumea", "ar": "نوميا" },
+    "airport": {
+      "en": "La Tontouta International Airport",
+      "ar": "مطار لا تونتوتا الدولي"
+    }
+  },
+  "POM": {
+    "city": { "en": "Port Moresby", "ar": "بورت مورسبي" },
+    "airport": {
+      "en": "Jacksons International Airport",
+      "ar": "مطار جاكسونز الدولي"
+    }
+  },
+  "HIR": {
+    "city": { "en": "Honiara", "ar": "هونيارا" },
+    "airport": {
+      "en": "Honiara International Airport",
+      "ar": "مطار هونيارا الدولي"
+    }
+  },
+  "VLI": {
+    "city": { "en": "Port Vila", "ar": "بورت فيلا" },
+    "airport": {
+      "en": "Bauerfield International Airport",
+      "ar": "مطار باورفيلد الدولي"
+    }
+  },
+  "TRW": {
+    "city": { "en": "Tarawa", "ar": "تاراوا" },
+    "airport": {
+      "en": "Bonriki International Airport",
+      "ar": "مطار بونريكي الدولي"
+    }
+  },
+  "FUN": {
+    "city": { "en": "Funafuti", "ar": "فونافوتي" },
+    "airport": {
+      "en": "Funafuti International Airport",
+      "ar": "مطار فونافوتي الدولي"
+    }
+  },
+  "MAJ": {
+    "city": { "en": "Majuro", "ar": "ماجورو" },
+    "airport": {
+      "en": "Marshall Islands International Airport",
+      "ar": "مطار جزر مارشال الدولي"
+    }
+  },
+  "PNI": {
+    "city": { "en": "Pohnpei", "ar": "بونبي" },
+    "airport": {
+      "en": "Pohnpei International Airport",
+      "ar": "مطار بونبي الدولي"
+    }
+  },
+  "ROR": {
+    "city": { "en": "Koror", "ar": "كورور" },
+    "airport": {
+      "en": "Roman Tmetuchl International Airport",
+      "ar": "مطار رومان تميتوكل الدولي"
+    }
+  },
+  "TKK": {
+    "city": { "en": "Chuuk", "ar": "تشووك" },
+    "airport": {
+      "en": "Chuuk International Airport",
+      "ar": "مطار تشووك الدولي"
+    }
+  },
+  "YAP": {
+    "city": { "en": "Yap", "ar": "ياب" },
+    "airport": { "en": "Yap International Airport", "ar": "مطار ياب الدولي" }
+  },
+  "ADD": {
+    "city": { "en": "Addis Ababa", "ar": "أديس أبابا" },
+    "airport": {
+      "en": "Addis Ababa Bole International Airport",
+      "ar": "مطار أديس أبابا بولي الدولي"
+    }
+  },
+  "NBO": {
+    "city": { "en": "Nairobi", "ar": "نيروبي" },
+    "airport": {
+      "en": "Jomo Kenyatta International Airport",
+      "ar": "مطار جومو كينياتا الدولي"
+    }
+  },
+  "MBA": {
+    "city": { "en": "Mombasa", "ar": "مومباسا" },
+    "airport": {
+      "en": "Moi International Airport",
+      "ar": "مطار موي الدولي"
+    }
+  },
+  "JNB": {
+    "city": { "en": "Johannesburg", "ar": "جوهانسبرغ" },
+    "airport": {
+      "en": "O.R. Tambo International Airport",
+      "ar": "مطار أو آر تامبو الدولي"
+    }
+  },
+  "CPT": {
+    "city": { "en": "Cape Town", "ar": "كيب تاون" },
+    "airport": {
+      "en": "Cape Town International Airport",
+      "ar": "مطار كيب تاون الدولي"
+    }
+  },
+  "DUR": {
+    "city": { "en": "Durban", "ar": "ديربان" },
+    "airport": {
+      "en": "King Shaka International Airport",
+      "ar": "مطار كينغ شاكا الدولي"
+    }
+  },
+  "LOS": {
+    "city": { "en": "Lagos", "ar": "لاغوس" },
+    "airport": {
+      "en": "Murtala Muhammed International Airport",
+      "ar": "مطار مرتالا محمد الدولي"
+    }
+  },
+  "ACC": {
+    "city": { "en": "Accra", "ar": "أكرا" },
+    "airport": {
+      "en": "Kotoka International Airport",
+      "ar": "مطار كوتوكا الدولي"
+    }
+  },
+  "ABJ": {
+    "city": { "en": "Abidjan", "ar": "أبيدجان" },
+    "airport": {
+      "en": "Felix Houphouet-Boigny International Airport",
+      "ar": "مطار فيليكس هوفويت-بواني الدولي"
+    }
+  },
+  "DKR": {
+    "city": { "en": "Dakar", "ar": "داكار" },
+    "airport": {
+      "en": "Blaise Diagne International Airport",
+      "ar": "مطار بليز دياني الدولي"
+    }
+  },
+  "TNR": {
+    "city": { "en": "Antananarivo", "ar": "أنتاناناريفو" },
+    "airport": {
+      "en": "Ivato International Airport",
+      "ar": "مطار إيفاتو الدولي"
+    }
+  },
+  "MPM": {
+    "city": { "en": "Maputo", "ar": "مابوتو" },
+    "airport": {
+      "en": "Maputo International Airport",
+      "ar": "مطار مابوتو الدولي"
+    }
+  },
+  "LUN": {
+    "city": { "en": "Lusaka", "ar": "لوساكا" },
+    "airport": {
+      "en": "Kenneth Kaunda International Airport",
+      "ar": "مطار كينيث كاوندا الدولي"
+    }
+  },
+  "HRE": {
+    "city": { "en": "Harare", "ar": "هراري" },
+    "airport": {
+      "en": "Robert Gabriel Mugabe International Airport",
+      "ar": "مطار روبرت موغابي الدولي"
+    }
+  },
+  "DAR": {
+    "city": { "en": "Dar es Salaam", "ar": "دار السلام" },
+    "airport": {
+      "en": "Julius Nyerere International Airport",
+      "ar": "مطار جوليوس نيريري الدولي"
+    }
+  },
+  "EBB": {
+    "city": { "en": "Entebbe", "ar": "عنتيبي" },
+    "airport": {
+      "en": "Entebbe International Airport",
+      "ar": "مطار عنتيبي الدولي"
+    }
+  },
+  "KGL": {
+    "city": { "en": "Kigali", "ar": "كيغالي" },
+    "airport": {
+      "en": "Kigali International Airport",
+      "ar": "مطار كيغالي الدولي"
+    }
+  },
+  "ZNZ": {
+    "city": { "en": "Zanzibar", "ar": "زنجبار" },
+    "airport": {
+      "en": "Abeid Amani Karume International Airport",
+      "ar": "مطار عبيد أماني كاروم الدولي"
+    }
+  },
+  "RAI": {
+    "city": { "en": "Praia", "ar": "برايا" },
+    "airport": {
+      "en": "Nelson Mandela International Airport",
+      "ar": "مطار نيلسون مانديلا الدولي"
+    }
+  }
+}

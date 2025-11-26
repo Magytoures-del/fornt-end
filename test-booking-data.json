@@ -1,0 +1,112 @@
+{
+  "bookingData": {
+    "bookingId": "FM123456789",
+    "bookingDate": "2025-10-03T12:00:00Z",
+    "status": "CONFIRMED",
+    "flights": [
+      {
+        "fromCity": "Riyadh",
+        "from": "Riyadh",
+        "fromCode": "RUH",
+        "fromAirport": "King Khalid International Airport",
+        "fromTerminal": "1",
+        "toCity": "Dubai",
+        "to": "Dubai",
+        "toCode": "DXB",
+        "toAirport": "Dubai International Airport",
+        "toTerminal": "3",
+        "departureTime": "2025-10-15T14:30:00Z",
+        "arrivalTime": "2025-10-15T17:45:00Z",
+        "flightNumber": "SV123",
+        "flightNo": "SV123",
+        "airline": "Saudi Arabian Airlines",
+        "airlineName": "Saudi Arabian Airlines",
+        "aircraft": "Boeing 787",
+        "pnr": "ABC123",
+        "airlineRef": "ABC123",
+        "crsRef": "ABC123",
+        "stops": 0,
+        "cabinClass": "Economy",
+        "travelClass": "Economy",
+        "checkedBaggage": "30 KG",
+        "cabinBaggage": "7 KG"
+      },
+      {
+        "fromCity": "Dubai",
+        "from": "Dubai",
+        "fromCode": "DXB",
+        "fromAirport": "Dubai International Airport",
+        "fromTerminal": "3",
+        "toCity": "Riyadh",
+        "to": "Riyadh",
+        "toCode": "RUH",
+        "toAirport": "King Khalid International Airport",
+        "toTerminal": "1",
+        "departureTime": "2025-10-20T19:00:00Z",
+        "arrivalTime": "2025-10-20T20:15:00Z",
+        "flightNumber": "SV124",
+        "flightNo": "SV124",
+        "airline": "Saudi Arabian Airlines",
+        "airlineName": "Saudi Arabian Airlines",
+        "aircraft": "Boeing 787",
+        "pnr": "DEF456",
+        "airlineRef": "DEF456",
+        "crsRef": "DEF456",
+        "stops": 0,
+        "cabinClass": "Economy",
+        "travelClass": "Economy",
+        "checkedBaggage": "30 KG",
+        "cabinBaggage": "7 KG"
+      }
+    ],
+    "passengers": [
+      {
+        "fullName": "Mr. Ahmed Al-Rashid",
+        "title": "Mr",
+        "firstName": "Ahmed",
+        "lastName": "Al-Rashid",
+        "type": "Adult",
+        "ticketNumber": "TKT123456789",
+        "ticketNo": "TKT123456789"
+      },
+      {
+        "fullName": "Mrs. Fatima Al-Rashid",
+        "title": "Mrs",
+        "firstName": "Fatima",
+        "lastName": "Al-Rashid",
+        "type": "Adult",
+        "ticketNumber": "TKT123456790",
+        "ticketNo": "TKT123456790"
+      },
+      {
+        "fullName": "Miss Sara Al-Rashid",
+        "title": "Miss",
+        "firstName": "Sara",
+        "lastName": "Al-Rashid",
+        "type": "Child",
+        "ticketNumber": "TKT123456791",
+        "ticketNo": "TKT123456791"
+      }
+    ],
+    "pricing": {
+      "baseFare": 1500,
+      "taxes": 450,
+      "ssrAmount": 150,
+      "total": 2100,
+      "totalPrice": 2100,
+      "currency": "SAR"
+    },
+    "notes": [
+      "Please ensure all passengers carry valid passports.",
+      "Check-in opens 3 hours before departure time.",
+      "Baggage allowance is per passenger."
+    ],
+    "company": {
+      "name": "FLYING MOON TRAVELS",
+      "address": "MAKKAH AZEEZIYA_AZEEZIYA A42",
+      "phone": "+966 560 629 072",
+      "email": "najah@ducvago.com"
+    }
+  }
+}
+
